@@ -35,5 +35,5 @@ span {
     font-weight: bold;
 }
 article {
-    display: inline-block;
+    display: flow-root;
 }
