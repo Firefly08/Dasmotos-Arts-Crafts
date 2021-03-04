@@ -28,7 +28,8 @@ h2 {
 }
 img {
     float: left;
-    margin-right: 40px;
+    margin-right: 20px;
+    padding-bottom: 20px;
 }
 span {
     color:blue;
